@@ -1,5 +1,9 @@
 # Agent Surface Auditor
 
+<p align="center">
+  <img src="assets/agent-surface-auditor-avatar.png" alt="Agent Surface Auditor logo" width="160">
+</p>
+
 語言：[English](README.md) | [繁體中文](README.zh-TW.md)
 
 Agent Surface Auditor 是一個小型 CLI，用來協助審查已導入 AI agent 的程式碼倉庫。

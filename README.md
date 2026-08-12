@@ -1,5 +1,9 @@
 # Agent Surface Auditor
 
+<p align="center">
+  <img src="assets/agent-surface-auditor-avatar.png" alt="Agent Surface Auditor logo" width="160">
+</p>
+
 Languages: [English](README.md) | [繁體中文](README.zh-TW.md)
 
 Agent Surface Auditor is a small CLI for reviewing AI-agent-enabled repositories.
