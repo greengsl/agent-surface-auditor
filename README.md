@@ -1,5 +1,7 @@
 # Agent Surface Auditor
 
+Languages: [English](README.md) | [繁體中文](README.zh-TW.md)
+
 Agent Surface Auditor is a small CLI for reviewing AI-agent-enabled repositories.
 It scans codebases for files and patterns that can affect agent behavior: shell
 commands, network access, filesystem writes, credential exposure, CI scripts,
