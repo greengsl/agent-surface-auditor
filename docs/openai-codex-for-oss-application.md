@@ -8,7 +8,7 @@ GitHub repository is public and has verifiable public metrics.
 - GitHub repository: `https://github.com/greengsl/agent-surface-auditor`
 - GitHub username: `greengsl`
 - Role: `Creator and primary maintainer`
-- Public metrics checked 2026-08-12: `0 stars, 0 forks, 0 issues, 0 pull requests, 1 initial commit`
+- Public metrics checked 2026-08-12: `new public repository, 0 external stars, 0 forks, 0 issues, 0 pull requests, 1 maintainer`
 
 ## 1. Explain Your Role
 
@@ -95,16 +95,16 @@ It gives concrete, bounded API use cases tied to open source maintenance.
 
 ### Recommended English
 
-The project is early-stage and does not claim package downloads or adoption that
-cannot be verified. I plan to track public signals such as stars, forks,
-contributors, issues, merged PRs, and real integrations as the basis for future
-maintenance and application updates.
+The project is early-stage and does not claim package downloads, external stars,
+or adoption that cannot be verified. I plan to track public signals such as
+external stars, forks, contributors, issues, merged PRs, and real integrations as
+the basis for future maintenance and application updates.
 
 ### 中文翻譯
 
-這個專案仍在早期階段，不會宣稱無法驗證的套件下載量或採用數據。我會以 stars、
-forks、contributors、issues、merged PRs 與真實整合作為後續維護和更新申請資料
-的依據。
+這個專案仍在早期階段，不會宣稱無法驗證的套件下載量、外部 stars 或採用數據。
+我會以外部 stars、forks、contributors、issues、merged PRs 與真實整合作為後續
+維護和更新申請資料的依據。
 
 ### Why This Works
 
@@ -145,7 +145,7 @@ keeping final decisions with maintainers.
 
 ### Anything Else
 
-The project is early-stage and does not claim package downloads or adoption that
-cannot be verified. I plan to track public signals such as stars, forks,
-contributors, issues, merged PRs, and real integrations as the basis for future
-maintenance and application updates.
+The project is early-stage and does not claim package downloads, external stars,
+or adoption that cannot be verified. I plan to track public signals such as
+external stars, forks, contributors, issues, merged PRs, and real integrations as
+the basis for future maintenance and application updates.
