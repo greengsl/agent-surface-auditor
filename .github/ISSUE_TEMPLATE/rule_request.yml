@@ -1,0 +1,33 @@
+name: Rule request
+description: Suggest a new scanner rule or agent ecosystem surface.
+title: "[Rule]: "
+labels: ["rule"]
+body:
+  - type: textarea
+    id: attack-scenario
+    attributes:
+      label: Attack scenario
+      description: What real maintainer or agent risk should this rule detect?
+    validations:
+      required: true
+  - type: textarea
+    id: examples
+    attributes:
+      label: Example pattern
+      description: Include safe, synthetic examples only. Do not paste real secrets.
+    validations:
+      required: true
+  - type: dropdown
+    id: ecosystem
+    attributes:
+      label: Ecosystem
+      options:
+        - Codex
+        - MCP
+        - GitHub Actions
+        - Shell scripts
+        - npm
+        - Python
+        - Other
+    validations:
+      required: true

@@ -1,0 +1,31 @@
+name: Bug report
+description: Report an incorrect finding, missed risk, or CLI bug.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction
+      description: Provide a minimal file or repository pattern that reproduces the issue.
+    validations:
+      required: true
+  - type: dropdown
+    id: impact
+    attributes:
+      label: Impact
+      options:
+        - False positive
+        - False negative
+        - CLI crash
+        - Documentation issue
+        - Other
+    validations:
+      required: true

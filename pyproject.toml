@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agent-surface-auditor"
+version = "0.1.0"
+description = "CLI scanner for AI-agent repository attack surfaces."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Open Source Maintainers" }]
+keywords = ["ai-agent", "codex", "security", "mcp", "cli", "open-source"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Environment :: Console",
+  "Intended Audience :: Developers",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Topic :: Security",
+  "Topic :: Software Development :: Quality Assurance",
+]
+
+[project.scripts]
+agent-surface-auditor = "agent_surface_auditor.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
