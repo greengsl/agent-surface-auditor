@@ -5,10 +5,10 @@ GitHub repository is public and has verifiable public metrics.
 
 ## Repository
 
-- GitHub repository: `TODO: https://github.com/<user-or-org>/agent-surface-auditor`
-- GitHub username: `TODO`
+- GitHub repository: `https://github.com/greengsl/agent-surface-auditor`
+- GitHub username: `greengsl`
 - Role: `Creator and primary maintainer`
-- Public metrics: `TODO: stars, forks, contributors, open issues, merged PRs`
+- Public metrics checked 2026-08-12: `0 stars, 0 forks, 0 issues, 0 pull requests, 1 initial commit`
 
 ## 1. Explain Your Role
 
